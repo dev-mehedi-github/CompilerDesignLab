@@ -22,7 +22,6 @@ x=10;
 cout<<"Hello World";
 return 0;
 }
---------------------
 
 --- Token Analysis ---
 line 1: 
