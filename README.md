@@ -8,13 +8,15 @@ This laboratory exercise focuses on two core concepts in C++ programming:
    From the content.txt provided in the file, identify the tokens (keywords, identifiers, operators, etc.) and print them out line by line with their type (e.g., `int = keyword`, `x = identifier`).
 
 ## Task Structure
-
+```text
 ├── main.cpp            # Main C++ source code containing the solution
 ├── content.txt         # Input file containing the text content
 └── README.md           # This documentation file
+```
 
+---
 ## Expected Output:
-
+```
 --- File Content ---
 int main(){
 int x;
@@ -34,3 +36,4 @@ line 4:
 cout = identifier, << = operator, "Hello World" = string literal, ; = punctuator
 line 5:
 return = keyword, 0 = number, ; = punctuator
+```
