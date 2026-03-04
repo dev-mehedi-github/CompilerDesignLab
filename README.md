@@ -1,10 +1,10 @@
-C++ Lab Work: File Handling and Lexical Analysis
+**Compiler design Mid task: File Handling and Lexical Analysis**
 
 ## Question: 
 This laboratory exercise focuses on two core concepts in C++ programming:
-1. Problem 1 (File Handling):
+1. **Problem 1 (File Handling):**
     Write a program to read the content of an external text file (`content.txt`) and print out the text content to the console.
-2. Problem 2 (Lexical Analysis): 
+2. **Problem 2 (Lexical Analysis):**
    From the content.txt provided in the file, identify the tokens (keywords, identifiers, operators, etc.) and print them out line by line with their type (e.g., `int = keyword`, `x = identifier`).
 
 ## Task Structure
